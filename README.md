@@ -2,7 +2,7 @@
 
 
 This is a fun little project I did that is just an ASCII image convertor and a video to images convertor.
-Here's the link to the actual video: https://www.youtube.com/watch?v=FtutLA63Cp8&ab_channel=kasidid2
+Here's the link to the actual video: [Here](https://www.youtube.com/watch?v=FtutLA63Cp8&ab_channel=kasidid2)
 
 ## Required Libraries
 * PIL
