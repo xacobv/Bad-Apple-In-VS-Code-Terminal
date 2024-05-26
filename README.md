@@ -2,8 +2,10 @@
 
 
 This is a fun little project I did that is just an ASCII image convertor and a video to images convertor.
-Here's the link to the actual video: [Here](https://www.youtube.com/watch?v=FtutLA63Cp8&ab_channel=kasidid2)
-All you have to do is run video_to_image.py and then ascii_video_convertor
+Here's the [link](https://www.youtube.com/watch?v=FtutLA63Cp8&ab_channel=kasidid2) to the actual video:
+All you have to do in order to get this to work is run ```video_to_image.py``` and then ```ascii_video_convertor```
+
+
 
 ## Required Libraries
 * PIL
