@@ -1,4 +1,4 @@
-#  <sup>Bad Apple in VS Code terminal Python</sup>  <img src="https://img.itch.zone/aW1nLzUxNTg0NDAucG5n/original/nkmFGe.png" width="80">
+#  <sup>Bad Apple in VS Code Terminal Python</sup>  <img src="https://img.itch.zone/aW1nLzUxNTg0NDAucG5n/original/nkmFGe.png" width="80">
 
 
 This is a fun little project I did that is just an ASCII image convertor and a video to images convertor.
